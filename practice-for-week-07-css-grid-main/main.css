@@ -62,4 +62,6 @@ html, body, div {
 
     /* Phase 2 */
     /* Your code here */
+    display: grid;
+    grid-auto-flow: column;
 }
